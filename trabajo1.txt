@@ -1,1 +1,5 @@
-gustavovalenciafernandosalgado
+modificacion1
+confirmando el archivo
+algo
+algo
+Estoy empezando a entender Git!
